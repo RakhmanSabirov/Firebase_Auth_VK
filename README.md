@@ -15,3 +15,6 @@ forgot password? Page
 
 
 Received email for password change
+
+![image](https://github.com/RakhmanSabirov/Firebase_Auth_VK/assets/140696861/2e1dc91d-8c3d-4f28-a59c-5d03dd82554c)
+
